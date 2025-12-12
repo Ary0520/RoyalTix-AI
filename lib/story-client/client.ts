@@ -112,7 +112,7 @@ export class StoryClient {
         ipId: response.ipId,
         txHash: response.txHash,
         tokenId: response.tokenId,
-        licenseTermsId: response.licenseTermsId?.[0] || 'auto-attached',
+        licenseTermsId: response.licenseTermsIds?.[0] || 'auto-attached',
       };
 
     } catch (error: any) {

@@ -15,6 +15,7 @@ interface ContentItem {
     contentType: string;
     licensing: { personal: number; commercial: number; exclusive: number };
     createdAt: string;
+    imageBase64?: string;
   };
   generatedContent: string;
   status: string;

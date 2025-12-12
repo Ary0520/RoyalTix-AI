@@ -35,9 +35,9 @@ export async function uploadImageToIPFS(imageBase64: string): Promise<string> {
   try {
     // Convert base64 to buffer
     const buffer = Buffer.from(imageBase64, 'base64');
-    const blob = new Blob([buffer], { type: 'image/png' });
+    const file = new File([buffer], 'image.png', { type: 'image/png' });
     
-    const { IpfsHash } = await pinata.upload.file(blob);
+    const { IpfsHash } = await pinata.upload.file(file);
     console.log('✅ Image uploaded to IPFS:', IpfsHash);
     return IpfsHash;
   } catch (error) {
