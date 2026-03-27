@@ -2,6 +2,8 @@
 
 **Transform AI-Generated Content into Valuable IP Assets**
 
+<img width="1900" height="963" alt="image" src="https://github.com/user-attachments/assets/3cca4ba4-dd9a-46e3-8392-4b304950cefc" />
+
 RoyalTix AI is a revolutionary platform that bridges the gap between AI content creation and blockchain-based intellectual property rights. Every piece of content generated or uploaded becomes a registered IP asset on Story Protocol, giving creators permanent ownership and automatic royalty streams.
 
 ## 🚀 Live Demo
@@ -14,6 +16,7 @@ RoyalTix AI is a revolutionary platform that bridges the gap between AI content 
 - **Marketplace**: Browse and discover registered IP assets
 
 ## 🏆 What Makes RoyalTix AI Special
+<img width="1901" height="917" alt="image" src="https://github.com/user-attachments/assets/a3e88ee3-0f7c-49cb-ac21-c36689ebf060" />
 
 ### Real Blockchain Integration
 - ✅ **Story Protocol**: Every asset is registered as IP on-chain
